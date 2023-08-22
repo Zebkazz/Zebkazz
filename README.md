@@ -6,15 +6,13 @@
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
     <a href="https://dev.to/zebkazz" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-      generator/master/src/images/icons/Social/devto.svg" alt="zebkazz" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zebkazz" height="30" width="40" />
     </a>
     <a href="https://twitter.com/zebkazz01" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-                                
-        generator/master/src/images/icons/Social/twitter.svg" alt="zebkazz01" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zebkazz01" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in//sebastian-castillop" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-perfil-readme- 
-        generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/sebastian-castillop" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-perfil-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/sebastian-castillop" height="30" width="40" />
     </a> 
 </ p>
 
