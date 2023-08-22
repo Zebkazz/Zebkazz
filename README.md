@@ -19,6 +19,7 @@
 Mi experiencia abarca un amplio espectro de habilidades técnicas, comenzando con el desarrollo web. Mi dominio de HTML, CSS y JavaScript me ha permitido crear interfaces visuales atractivas y funcionales que interactúan de manera fluida con los usuarios. Mi conocimiento de PHP y SQL me capacita para construir sistemas dinámicos y bases de datos eficientes que respalden la funcionalidad del sitio web y las aplicaciones. Además, mi experiencia con diversos frameworks agiliza el proceso de desarrollo y garantiza la adhesión a las mejores prácticas de la industria.
 
 <br/>  
+
 ## Curiosidades 
 
 - 🔭 Actualmente me encuentro estudiando sobre las tecnologías actuales y en la búsqueda de nuevos proyectos y experiencias para poner en practica mis conocimientos  
