@@ -32,7 +32,6 @@ Mi experiencia abarca un amplio espectro de habilidades técnicas, comenzando co
   
 
 - ⚡ Tengo la cualidad de ser autodidacta  
-
 <br/>  
 
 ## Lenguajes de programacion y herramientas
@@ -71,12 +70,10 @@ Mi experiencia abarca un amplio espectro de habilidades técnicas, comenzando co
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
 <a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="25" /></a>  
 </div>  
-
 <br/>  
 
 ## Estadisticas de Github   
 <table><tr><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
