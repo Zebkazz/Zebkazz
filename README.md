@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Me llamo soy Sebastián Castillo</h1>
+<h1 align="center">Hola 👋, Me llamo Sebastián Castillo</h1>
 <h3 align="center">Soy un desarrollador Junior en busca de nuevas experiencias y conocimientos</h3>
 
 - 📫 Cómo llegar a mí **zebkazz01@gmail.com / sebasc0414@gmail.com**
