@@ -1,5 +1,4 @@
 ## Hola 👋, Soy Sebastián Castillo!  
-  
 
 <a href="https://dev.to/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
@@ -16,18 +15,11 @@
 <a href="https://instagram.com/Zebkazz01" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
-
 ### ¡Me alegro de verte aquí!
 Mi experiencia abarca un amplio espectro de habilidades técnicas, comenzando con el desarrollo web. Mi dominio de HTML, CSS y JavaScript me ha permitido crear interfaces visuales atractivas y funcionales que interactúan de manera fluida con los usuarios. Mi conocimiento de PHP y SQL me capacita para construir sistemas dinámicos y bases de datos eficientes que respalden la funcionalidad del sitio web y las aplicaciones. Además, mi experiencia con diversos frameworks agiliza el proceso de desarrollo y garantiza la adhesión a las mejores prácticas de la industria.
-  
-  
 
 <br/>  
-
-
 ## Curiosidades 
-
 
 - 🔭 Actualmente me encuentro estudiando sobre las tecnologías actuales y en la búsqueda de nuevos proyectos y experiencias para poner en practica mis conocimientos  
   
@@ -41,7 +33,6 @@ Mi experiencia abarca un amplio espectro de habilidades técnicas, comenzando co
 - ⚡ Tengo la cualidad de ser autodidacta  
 
 <br/>  
-
 
 ## Lenguajes de programacion y herramientas
 <div align="center">  
@@ -81,7 +72,6 @@ Mi experiencia abarca un amplio espectro de habilidades técnicas, comenzando co
 </div>  
 
 <br/>  
-
 
 ## Estadisticas de Github   
 <table><tr><td valign="top" width="50%">
