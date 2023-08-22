@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://dev. to/zebkazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/ devto.svg" alt="zebkazz" height="30" width="40" /></a>
 <a href="https://twitter.com/zebkazz01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="zebkazz01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in /https://www.linkedin.com/in/sebastian-castillop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastian-castillop/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in /https://www.linkedin.com/in/sebastian-castillop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastian-castillop" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
